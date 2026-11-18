@@ -46,3 +46,7 @@ Open the notebook in Colab on a GPU runtime (an L4 is enough), put the archive a
 ## Limitations
 
 The farms are slices of one dataset, so connectivity, farms joining and leaving, and differences in cameras between farms are not modelled. Only the disease mix varies between farms. All results come from a single seed and partition. The images are RGB only.
+
+## Author
+
+Oluwapelumi Alagbe ([@alagbeooao](https://github.com/alagbeooao))
