@@ -18,7 +18,7 @@ The farms are simulated by splitting the labelled set with a Dirichlet prior on 
 - Grad-CAM to check what the model looks at
 - Distillation into MobileNetV3-Small on unlabelled images, then INT8 quantisation
 - A heterogeneity sweep over α = 10, 1, 0.4 and 0.1
-- Client-level differential privacy with an RDP accountant (switched off in this run).
+- Client-level differential privacy with an RDP accountant (switched off in this run)
 
 ## Results (one seed)
 
