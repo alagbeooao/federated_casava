@@ -1,4 +1,4 @@
-**# Federated learning for cassava disease diagnosis**
+# Federated learning for cassava disease diagnosis
 
 Ten simulated farms train one cassava leaf-disease classifier without pooling their images. The notebook then checks how far the result can be trusted: what federation costs in accuracy, how the worst-served farm does, whether the model's confidence is calibrated, whether it is less certain when it is wrong, and whether a model small enough for a phone holds up.
 
